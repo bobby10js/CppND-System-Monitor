@@ -2,7 +2,7 @@
 
 
 
-to build:
+to build:\
 mkdir -p build\
 cd build && \
 cmake .. && \
